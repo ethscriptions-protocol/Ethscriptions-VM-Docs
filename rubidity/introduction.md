@@ -7,7 +7,7 @@ Rubidity is a high-level, object-oriented programming language designed for crea
 **Blocks**: In Rubidity, blocks of code are encapsulated between `do` and `end` keywords. These blocks are often used to define the bodies of functions, loops, and control structures.
 
 ```ruby
-rubyCopy codefunction :mint, { amount: :uint256 }, :public do
+function :mint, { amount: :uint256 }, :public do
   require(amount > 0, 'Amount must be positive')
   _mint(to: msg.sender, amount: amount)
 end
