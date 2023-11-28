@@ -2,7 +2,8 @@
 
 ## Getting Started
 
-* [Welcome to Ethscriptions VM!](README.md)
+* [THESE DOCS HAVE MOVED](README.md)
+* [Welcome to Ethscriptions VM!](<README (1).md>)
 
 ## Rubidity
 
